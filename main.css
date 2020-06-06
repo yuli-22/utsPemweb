@@ -1,0 +1,10 @@
+#grad1 {
+  height: 1000px;
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(white, grey); /* Standard syntax (must be last) */
+}
+
+.monospace {
+  font-family: "Lucida Console", Courier, monospace;
+}
+
